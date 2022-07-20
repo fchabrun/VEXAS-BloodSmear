@@ -1,4 +1,8 @@
-# Deep learning to diagnose VEXAS syndrome with peripheral blood smear   
+# Deep learning to diagnose VEXAS syndrome with peripheral blood smear
+
+<p align="center">
+<img src="https://github.com/fchabrun/VEXAS-BloodSmear/blob/main/Figure%201.png?raw=true" width="80%">
+</p>
 
 ## Authors
 **Floris Chabrun**<sup>[§](#authors),[1](#affiliations),[2](#affiliations)</sup>, **Valentin Lacombe**<sup>[§](#authors),[1](#affiliations),[3](#affiliations)</sup>, **Xavier Dieu**<sup>[1](#affiliations),[2](#affiliations)</sup>, **Franck Geneviève**<sup>[4](#affiliations),[5](#affiliations)</sup>, **Geoffrey Urbanski**<sup>[*](#corresponding-author),[1](#affiliations),[3](#affiliations),[6](#affiliations)</sup><br>
