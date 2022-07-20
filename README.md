@@ -21,7 +21,7 @@
 
 ## Abstract
 
-**Importance.** VEXAS syndrome is a newly described autoinflammatory disease associated with UBA1 somatic mutations and vacuolization of myeloid precursors. This disease has a more and more broad spectrum leading to an increase in the number of suspected cases, but it remains a rare disease. Its diagnosis via bone-marrow aspiration and UBA1-gene sequencing is time-consuming and expensive.
+**Importance.** VEXAS syndrome is a newly described autoinflammatory disease associated with *UBA1* somatic mutations and vacuolization of myeloid precursors. This disease has a more and more broad spectrum leading to an increase in the number of suspected cases, but it remains a rare disease. Its diagnosis via bone-marrow aspiration and *UBA1*-gene sequencing is time-consuming and expensive.
 
 **Objective.** To identify new markers of VEXAS syndrome within peripheral leukocytes.
 
@@ -29,7 +29,7 @@
 
 **Setting.** Case-control study in a tertiary care center.
 
-**Participants.** We compared three groups: patients with VEXAS syndrome (identified UBA1 mutation) (VEXAS group); patients with clinical and biological features strongly suggestive of VEXAS syndrome but without UBA1 mutation (UBA1-WT group); patients with a myelodysplastic syndrome and without clinical suspicion of VEXAS syndrome, that were matched on gender and age to patients from the VEXAS and UBA1-WT groups, with at a 1:1 ratio.
+**Participants.** We compared three groups: patients with VEXAS syndrome (identified *UBA1* mutation) (VEXAS group); patients with clinical and biological features strongly suggestive of VEXAS syndrome but without *UBA1* mutation (UBA1-WT group); patients with a myelodysplastic syndrome and without clinical suspicion of VEXAS syndrome, that were matched on gender and age to patients from the VEXAS and UBA1-WT groups, with at a 1:1 ratio (SMD group).
 
 **Intervention.** To compare images of circulating leukocytes, we applied a two-step procedure. First, we used self-supervised contrastive learning to train convolutional neural networks to translate leukocyte images into lower-dimensional encodings. Then, we employed support vector machine to predict patients’ condition based on those leukocyte encodings.
 
