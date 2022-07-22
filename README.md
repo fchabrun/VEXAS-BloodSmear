@@ -21,23 +21,23 @@
 
 ## Abstract
 
-**Importance.** VEXAS syndrome is a newly described autoinflammatory disease associated with *UBA1* somatic mutations and vacuolization of myeloid precursors. This disease has a more and more broad spectrum leading to an increase in the number of suspected cases, but it remains a rare disease. Its diagnosis via bone-marrow aspiration and *UBA1*-gene sequencing is time-consuming and expensive.
+**Importance.** VEXAS syndrome is a newly described autoinflammatory disease associated with *UBA1* somatic mutations and vacuolization of myeloid precursors. This disease possesses an increasingly broad spectrum, leading to an increase in the number of suspected cases, but it remains a rare disease. Its diagnosis via bone-marrow aspiration and *UBA1*-gene sequencing is time-consuming and expensive.
 
 **Objective.** To identify new markers of VEXAS syndrome within peripheral leukocytes.
 
-**Design.** Deep learning was applied to the analysis of leukocyte images from blood smears collected between January 2020 and May 2022.
+**Design.** Deep-learning was applied to the analysis of leukocyte images from blood smears collected between January 2020 and May 2022.
 
 **Setting.** Case-control study in a tertiary care center.
 
-**Participants.** We compared three groups: patients with VEXAS syndrome (identified *UBA1* mutation) (VEXAS group); patients with clinical and biological features strongly suggestive of VEXAS syndrome but without *UBA1* mutation (UBA1-WT group); patients with a myelodysplastic syndrome and without clinical suspicion of VEXAS syndrome, that were matched on gender and age to patients from the VEXAS and UBA1-WT groups, with at a 1:1 ratio (MDS group).
+**Participants.** We compared three groups: patients with VEXAS syndrome (identified *UBA1* mutation) (VEXAS group); patients with clinical and biological features strongly suggestive of VEXAS syndrome but without *UBA1* mutation (UBA1-WT group); patients with a myelodysplastic syndrome and without clinical suspicion of VEXAS syndrome (MDS group), that were matched on gender and age to patients from the VEXAS and UBA1-WT groups, with at a 1:1 ratio.
 
 **Intervention.** To compare images of circulating leukocytes, we applied a two-step procedure. First, we used self-supervised contrastive learning to train convolutional neural networks to translate leukocyte images into lower-dimensional encodings. Then, we employed support vector machine to predict patients’ condition based on those leukocyte encodings.
 
-**Main Outcome and Measure.** We used mean ROC-AUC to represent the predictive performance of the deep learning model in distinguishing among the leukocytes from the three groups.
+**Main Outcome and Measure.** We used mean ROC-AUC to represent the predictive performance of the deep-learning model in distinguishing among the leukocytes from the three groups.
 
-**Results.** The VEXAS, UBA1-WT, and MDS groups included 3, 3, and 6 patients respectively. Analysis of 33,757 images of neutrophils and monocytes enabled us to distinguish VEXAS patients from both UBA1-WT and MDS patients, with mean ROC-AUC ranging from 0.87 to 0.95. 
+**Results.** The VEXAS, UBA1-WT, and MDS groups included 3, 3, and 6 patients respectively. Analysis of 33,757 images of neutrophils and monocytes enabled us to distinguish VEXAS patients from both UBA1-WT and MDS patients, with mean ROC-AUCs ranging from 0.87 to 0.95. 
 
-**Conclusions and Relevance.** Image analysis of blood smears via deep learning accurately distinguished neutrophils and monocytes drawn from patients with VEXAS syndrome from those of patients with similar clinical and/or biological features but without UBA1 mutation. Our findings offer a promising pathway to better screening for this disease.
+**Conclusions and Relevance.** Image analysis of blood smears via deep-learning accurately distinguished neutrophils and monocytes drawn from patients with VEXAS syndrome from those of patients with similar clinical and/or biological features but without UBA1 mutation. Our findings offer a promising pathway to better screening for this disease.
 
 ## Jupyter notebooks
 
