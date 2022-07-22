@@ -37,7 +37,7 @@
 
 **Results.** The VEXAS, UBA1-WT, and MDS groups included 3, 3, and 6 patients respectively. Analysis of 33,757 images of neutrophils and monocytes enabled us to distinguish VEXAS patients from both UBA1-WT and MDS patients, with mean ROC-AUCs ranging from 0.87 to 0.95. 
 
-**Conclusions and Relevance.** Image analysis of blood smears via deep-learning accurately distinguished neutrophils and monocytes drawn from patients with VEXAS syndrome from those of patients with similar clinical and/or biological features but without UBA1 mutation. Our findings offer a promising pathway to better screening for this disease.
+**Conclusions and Relevance.** Image analysis of blood smears via deep-learning accurately distinguished neutrophils and monocytes drawn from patients with VEXAS syndrome from those of patients with similar clinical and/or biological features but without *UBA1* mutation. Our findings offer a promising pathway to better screening for this disease.
 
 ## Jupyter notebooks
 
